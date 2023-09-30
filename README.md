@@ -6,7 +6,7 @@ Also you probably need to use "$npm install --force" to force the very old ngx-s
 # CAS FEE PROJEKT 2 : SPA Shop Front End Implementation
 
 - Christian Zellweger (https://github.com/chzellweger)
-- André Abt (https://github.com/monobasic)
+- André Abt (https://github.com/jeffulan)
 
 Check out this project online at [http://shop.andre-abt.com](http://shop.andre-abt.com)
 Note: The pixelated product images are there because of image licensing reasons.
@@ -16,7 +16,7 @@ Note: The pixelated product images are there because of image licensing reasons.
 ### Clone repository
 
 ```bash
-git clone git@github.com:monobasic/Angular-6-Demo-Shop.git
+git clone git@github.com:jeffulan/Angular-6-Demo-Shop.git
 ```
 
 ### Install Angular-Cli globally
